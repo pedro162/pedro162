@@ -1,6 +1,6 @@
 # 👋 Hi, I'm José Pedro Aguiar Ferreira!
 
-![Banner](./Welcome.png)
+![Banner](Welcome.png)
 
 ## About Me
 
