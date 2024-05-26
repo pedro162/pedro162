@@ -1,6 +1,6 @@
 # 👋 Hi, I'm José Pedro Aguiar Ferreira!
 
-![Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+my+GitHub)
+![Banner](https://via.placeholder.com/1200x300/4CAF50/FFFFFF?text=Welcome+to+my+GitHub)
 
 ## About Me
 
