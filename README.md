@@ -41,9 +41,11 @@ I am passionate about technologies and always working on new projects. I hold a 
 
 ## 🌟 Highlighted Projects
 
-- [Virtual Store](https://github.com/pedro162/loja_virtual): Virtual store project using my own framework.
-- [Music Player](https://github.com/pedro162/musicplayer): My first music app using React Native.
 - [Aesthetic Clinic](https://github.com/pedro162/clinica_estetica): Project for aesthetic clinics using React JS and consuming a Rest API in Laravel.
+- [Grocery List System](https://github.com/pedro162/grocery_list_app): System to control users' grocery lists, using Vue.js and Laravel.
+- [My Favorite Store](https://github.com/pedro162/WebStore): Web store project using Python and the Django framework
+- [Web Store](https://github.com/pedro162/loja_virtual): Virtual store project using my own framework.
+- [Music Player](https://github.com/pedro162/musicplayer): My first music app using React Native.
 - [Aesthetic Clinic API](https://github.com/pedro162/clinica_estetica_api): Rest API in Laravel.
 - [Bookstore API](https://github.com/pedro162/bookstore_api): RESTFul API for bookstores in Laravel 11 and PHP 8.2.
 - [Easy Trip API](https://github.com/pedro162/easy_trip_api): RESTFul API for travel apps in Laravel 11 and PHP 8.2.
