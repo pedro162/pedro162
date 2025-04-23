@@ -4,12 +4,12 @@
 
 ## About Me
 
-I am passionate about technologies and always working on new projects. I hold a Bachelor's degree in Computer Science and specialize in PHP and Laravel development, following best practices and design patterns such as DDD and TDD. I am also an English speaker and student, with a B2+ proficiency level.
+I am passionate about technology and constantly working on new projects. I hold a Bachelor's degree in Computer Science and specialize in PHP and Laravel development, following best practices and design patterns such as DDD and TDD. I'm also an English learner with a B2+ proficiency level.
 
 - 🔭 Currently working on personal projects.
-- 🌱 Learning more about Docker, design patterns, and microservices.
-- 💬 Ask me about back-end development with Laravel.
-- 📫 How to reach me: [pedro.aguiar.dev@gmail.com](mailto:pedro.aguiar.dev@gmail.com)
+- 🌱 Exploring more about Docker, design patterns, and microservices.
+- 💬 Feel free to ask me about back-end development with Laravel.
+- 📫 Reach me at: [pedro.aguiar.dev@gmail.com](mailto:pedro.aguiar.dev@gmail.com)
 
 ## 🚀 Technologies and Tools
 
@@ -41,13 +41,13 @@ I am passionate about technologies and always working on new projects. I hold a 
 
 ## 🌟 Highlighted Projects
 
-- [Aesthetic Clinic](https://github.com/pedro162/clinica_estetica): Project for aesthetic clinics using React JS and consuming a Rest API in Laravel.
-- [Grocery List System](https://github.com/pedro162/grocery_list_app): System to control users' grocery lists, using Vue.js and Laravel.
-- [My Favorite Store](https://github.com/pedro162/WebStore): Web store project using Python and the Django framework
-- [Aesthetic Clinic API](https://github.com/pedro162/clinica_estetica_api): Rest API in Laravel.
-- [Bookstore API](https://github.com/pedro162/bookstore_api): RESTFul API for bookstores in Laravel 11 and PHP 8.2.
-- [Easy Trip API](https://github.com/pedro162/easy_trip_api): RESTFul API for travel apps in Laravel 11 and PHP 8.2.
-- [Web Store](https://github.com/pedro162/loja_virtual): Virtual store project using my own framework.
+- [Aesthetic Clinic](https://github.com/pedro162/clinica_estetica): Project for aesthetic clinics using React.js and consuming a Laravel REST API.
+- [Grocery List System](https://github.com/pedro162/grocery_list_app): User grocery list management system using Vue.js and Laravel.
+- [My Favorite Store](https://github.com/pedro162/WebStore): Web store built with Python and Django.
+- [Aesthetic Clinic API](https://github.com/pedro162/clinica_estetica_api): REST API developed with Laravel.
+- [Bookstore API](https://github.com/pedro162/bookstore_api): RESTful API for bookstores using Laravel 11 and PHP 8.2.
+- [Easy Trip API](https://github.com/pedro162/easy_trip_api): RESTful API for travel applications using Laravel 11 and PHP 8.2.
+- [Web Store](https://github.com/pedro162/loja_virtual): Virtual store project using a custom framework.
 - [Music Player](https://github.com/pedro162/musicplayer): My first music app using React Native.
 
 ## 📫 Connect with Me
@@ -58,10 +58,10 @@ I am passionate about technologies and always working on new projects. I hold a 
 ## 📧 Contact
 
 - Email: [pedro.aguiar.dev@gmail.com](mailto:pedro.aguiar.dev@gmail.com)
-- WhatsApp: [+5598984257623](https://wa.me/5598984257623)
+- WhatsApp: [+55 98 98425-7623](https://wa.me/5598984257623)
 
 ---
 
-Thank you for visiting my profile! Let's connect and create something amazing together!
-![Snake animation](https://github.com/pedro162/pedro162/blob/output/github-contribution-grid-snake.svg)
+Thank you for visiting my profile! Let's connect and build something amazing together!
 
+![Snake animation](https://github.com/pedro162/pedro162/blob/output/github-contribution-grid-snake.svg)
