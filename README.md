@@ -36,7 +36,6 @@ I am passionate about technology and constantly working on new projects. I hold 
 
 ### Contribution Graphs
 
-![Commits per Year](https://github-readme-activity-graph.cyclic.app/graph?username=pedro162&theme=radical)
 ![Recent Contributions](https://github-readme-streak-stats.herokuapp.com/?user=pedro162&theme=radical)
 
 ## 🌟 Highlighted Projects
