@@ -63,3 +63,5 @@ I am passionate about technologies and always working on new projects. I hold a 
 ---
 
 Thank you for visiting my profile! Let's connect and create something amazing together!
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
