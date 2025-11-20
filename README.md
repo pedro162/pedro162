@@ -42,14 +42,14 @@ I am passionate about technology and constantly working on new projects. I hold 
 
 - [School management API](https://github.com/pedro162/escola_alura): RESTfull API for simple school management using Django REST Framework.
 - [Inventory controll API](https://github.com/pedro162/mentoria_api): RESTfull API for simple inventory control using Django REST Framework.
-- [Aesthetic Clinic](https://github.com/pedro162/clinica_estetica): Project for aesthetic clinics using React.js and consuming a Laravel REST API.
+- [Aesthetic Clinic SPA](https://github.com/pedro162/clinica_estetica): Project for aesthetic clinics using React.js and consuming a Laravel REST API.
 - [Grocery List System](https://github.com/pedro162/grocery_list_app): User grocery list management system using Vue.js and Laravel.
 - [My Favorite Store](https://github.com/pedro162/WebStore): Web store built with Python and Django.
 - [Aesthetic Clinic API](https://github.com/pedro162/clinica_estetica_api): REST API developed with Laravel.
 - [Bookstore API](https://github.com/pedro162/bookstore_api): RESTful API for bookstores using Laravel 11 and PHP 8.2.
 - [Easy Trip API](https://github.com/pedro162/easy_trip_api): RESTful API for travel applications using Laravel 11 and PHP 8.2.
 - [Web Store](https://github.com/pedro162/loja_virtual): Virtual store project using a custom framework.
-- [Music Player](https://github.com/pedro162/musicplayer): My first music app using React Native.
+- [Music Player APP](https://github.com/pedro162/musicplayer): My first music app using React Native.
 
 ## 📫 Connect with Me
 
