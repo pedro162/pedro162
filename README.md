@@ -40,8 +40,8 @@ I am passionate about technology and constantly working on new projects. I hold 
 
 ## 🌟 Highlighted Projects
 
-- [School management](https://github.com/pedro162/escola_alura): Full REST API for simple school management using Django REST Framework.
-- [Inventory controll](https://github.com/pedro162/mentoria_api): Full REST API for simple inventory control using Django REST Framework.
+- [School management](https://github.com/pedro162/escola_alura): RESTfull API for simple school management using Django REST Framework.
+- [Inventory controll](https://github.com/pedro162/mentoria_api): RESTfull API for simple inventory control using Django REST Framework.
 - [Aesthetic Clinic](https://github.com/pedro162/clinica_estetica): Project for aesthetic clinics using React.js and consuming a Laravel REST API.
 - [Grocery List System](https://github.com/pedro162/grocery_list_app): User grocery list management system using Vue.js and Laravel.
 - [My Favorite Store](https://github.com/pedro162/WebStore): Web store built with Python and Django.
