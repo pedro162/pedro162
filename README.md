@@ -42,6 +42,9 @@ I am passionate about technology and constantly working on new projects. I hold 
 
 - [School management API](https://github.com/pedro162/escola_alura): RESTfull API for simple school management using Django REST Framework.
 - [Inventory controll API](https://github.com/pedro162/mentoria_api): RESTfull API for simple inventory control using Django REST Framework.
+- [CI/CD Pipeline implementation](https://github.com/pedro162/projeto_go_ci): CI/CD pipeline implementation for a Go project.
+- [CI Pipeline implementation](https://github.com/pedro162/projeto_go_alura): CI pipeline implementation for a Go project.
+- [Observability using Prometheus and Grafana](https://github.com/pedro162/observability_prometheus_grafana): Observability implementation for a Java Spring project unsing Primetheus and Grafana.
 - [Aesthetic Clinic SPA](https://github.com/pedro162/clinica_estetica): Project for aesthetic clinics using React.js and consuming a Laravel REST API.
 - [Grocery List System](https://github.com/pedro162/grocery_list_app): User grocery list management system using Vue.js and Laravel.
 - [My Favorite Store](https://github.com/pedro162/WebStore): Web store built with Python and Django.
