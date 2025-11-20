@@ -42,6 +42,7 @@ I am passionate about technology and constantly working on new projects. I hold 
 
 - [School management API](https://github.com/pedro162/escola_alura): RESTfull API for simple school management using Django REST Framework.
 - [Inventory controll API](https://github.com/pedro162/mentoria_api): RESTfull API for simple inventory control using Django REST Framework.
+- [GraphQL API](https://github.com/pedro162/GraphQL_With_Node): GraphQL API using Node.
 - [CI/CD Pipeline implementation](https://github.com/pedro162/projeto_go_ci): CI/CD pipeline implementation for a Go project.
 - [CI Pipeline implementation](https://github.com/pedro162/projeto_go_alura): CI pipeline implementation for a Go project.
 - [Observability using Prometheus and Grafana](https://github.com/pedro162/observability_prometheus_grafana): Observability implementation for a Java Spring project unsing Primetheus and Grafana.
