@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-aguiar-92000a176/)
 [![Email](https://img.shields.io/badge/Email-Get_in_touch-334155?style=flat-square&logo=gmail&logoColor=white)](mailto:pedro.aguiar.dev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=flat-square&logo=githubpages&logoColor=white)](https://pedro162.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=flat-square&logo=githubpages&logoColor=white)](https://pedro-aguiar-portfolio-eight.vercel.app/)
 
 </div>
 
@@ -94,7 +94,7 @@ I'm open to conversations about **custom software, backend engineering, integrat
 
 - **Email:** [pedro.aguiar.dev@gmail.com](mailto:pedro.aguiar.dev@gmail.com)
 - **LinkedIn:** [Pedro Aguiar](https://www.linkedin.com/in/pedro-aguiar-92000a176/)
-- **Portfolio:** [pedro162.github.io](https://pedro162.github.io/)
+- **Portfolio:** [Pedro Aguiar](https://pedro-aguiar-portfolio-eight.vercel.app)
 - **GitHub:** [@pedro162](https://github.com/pedro162)
 
 ---
